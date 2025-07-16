@@ -1,0 +1,8 @@
+In githublearning folder we take it from github to local folder, its totally understand.
+Now we are going to create another folder in local and going to connect in github.
+So, firstly we use "git init" command to initialize the folder to github which is located in the local.
+Now In github we need to create another repository to store the folder which is created in local.
+Now we need to add that repository origin link in the vs code using "git remote add origin that link" and the repository is linked to vs code.
+Then we need to change the branch name from "master" to "main" using "git brand -M main" command.
+Now its changed the brand name.
+Then we need to do ususal method like add, commit and then push.
