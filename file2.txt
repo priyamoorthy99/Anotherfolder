@@ -1,0 +1,4 @@
+Now I'm adding another file to see how will "add" command will work.
+I'm going to use command "git add ."
+When we want to add so many files means in that time we can use "git add ."
+It will add all the files to staging area.
